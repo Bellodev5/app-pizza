@@ -1,0 +1,19 @@
+{
+  "name": "proj_massa_pizza",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "Bello",
+  "license": "MIT",
+  "description": "Programa para calcular massa de pizza",
+  "dependencies": {
+    "@babel/preset-env": "^7.29.0",
+    "jest": "^30.2.0"
+  }
+}
